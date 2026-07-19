@@ -267,5 +267,7 @@ Computer Science Engineering Student
 ---
 
 # ⭐ Support
-
 If you like this project, consider giving it a ⭐ on GitHub.
+#  contact support
+phone no:8074428077
+gmail id:vataparthideekshith@gmail.com
