@@ -261,8 +261,8 @@ AI-Resume-Analyzer/
 
 Computer Science Engineering Student
 
-🔗 GitHub: your-github-link
-🔗 LinkedIn: your-linkedin-link
+🔗 GitHub: https://github.com/vdeekshith2007
+🔗 LinkedIn:  https://www.linkedin.com/in/vataparthi-deekshith/
 
 ---
 
