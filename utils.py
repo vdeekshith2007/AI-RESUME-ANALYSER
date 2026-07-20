@@ -1,5 +1,6 @@
 """
 Utility functions for file handling, PDF extraction, and report generation.
+generates downloadble report for the user after analysing the resume and job description.
 """
 
 import os
