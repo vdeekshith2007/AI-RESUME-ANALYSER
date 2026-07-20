@@ -1,3 +1,7 @@
+### using uv package manager or pip package manager install the following dependencies in your virtual environment ###
+
+
+
 streamlit>=1.32.0
 pandas>=2.0.0
 plotly>=5.18.0
