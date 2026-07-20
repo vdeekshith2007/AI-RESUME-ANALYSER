@@ -3,7 +3,7 @@ chcp 65001 >nul
 title AI Resume Analyzer - Startup
 
 echo ============================================================
-echo           AI Resume Analyzer - Startup Script
+echo           AI Resume Analyzer - Startup Script -analyzer
 echo ============================================================
 echo.
 
