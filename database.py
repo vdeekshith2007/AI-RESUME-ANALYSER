@@ -1,6 +1,15 @@
 """
 Database module for AI Resume Analyzer.
 Handles SQLite connection, schema initialization, user auth, and analysis history.
+
+
+Database module for AI Resume Analyzer.
+Handles SQLite connection, schema initialization, user auth, and analysis history.
+
+
+
+
+
 """
 
 import hashlib
