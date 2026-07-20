@@ -1,6 +1,11 @@
 """
 Resume analysis engine.
 Handles skill extraction, ATS scoring, and feedback generation.
+-------------------------------------------------------------------------------------------
+Resume analysis engine.
+Handles skill extraction, ATS scoring, and feedback generation.
+
+
 """
 
 import re
