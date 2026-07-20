@@ -1,6 +1,10 @@
 """
 AI Resume Analyzer & ATS Score Checker
 Main Streamlit application entry point.
+
+---------------------------------------------------------------------------
+AI Resume Analyzer & ATS Score Checker
+Main Streamlit application entry point.
 """
 
 import os
