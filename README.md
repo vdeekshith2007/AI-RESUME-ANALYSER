@@ -13,6 +13,7 @@ An intelligent AI-powered Resume Analyzer that helps job seekers evaluate, impro
 * Upload resumes in PDF format
 * Automatically extract text and important details
 * Supports multiple resume formats
+* scaning the resume with pdf formats
 
 🧠 **AI Resume Analysis**
 
