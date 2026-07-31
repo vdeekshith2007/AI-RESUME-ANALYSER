@@ -136,6 +136,7 @@ An intelligent AI-powered Resume Analyzer that helps job seekers evaluate, impro
 * Pandas
 * NumPy
 * Scikit-learn
+* nlp
 
 ## Tools
 
