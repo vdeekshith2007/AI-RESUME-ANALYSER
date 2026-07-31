@@ -128,6 +128,7 @@ An intelligent AI-powered Resume Analyzer that helps job seekers evaluate, impro
 ## Database
 
 * MongoDB / PostgreSQL
+## if want we may use (REDIS as secure database)
 
 ## Libraries
 
