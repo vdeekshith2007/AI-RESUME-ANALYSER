@@ -8,6 +8,8 @@ venv/
 env/
 
 # Environment
+
+# add environmental variables
 .env
 .env.local
 
